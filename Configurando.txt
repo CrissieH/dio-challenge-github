@@ -1,0 +1,7 @@
+1. Fazer o download do git em https://git-scm.com/
+2. Criar uma pasta para git e github nos documentos
+3. Clicar com o botão direito na pasta -> open gitbash
+4. Configurar o e-mail e nome de usuário para todos os repositórios usando
+git config --global user.email emailexemplo@gmail.com
+git config --global user.name "Nome Exemplo"
+5. Use Ctrl+L para apagar o texto do  terminal

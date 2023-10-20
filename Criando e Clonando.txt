@@ -1,0 +1,4 @@
+1. Usar mkdir repo-local
+2. Entrar nas pastas usando o  comando cd nomedapasta/
+3. git init
+4. git clone linkrepositorio
